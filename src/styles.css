@@ -16,7 +16,6 @@ body {
   color: var(--text-color);
 }
 
-
 a:hover {
   filter: brightness(0.55);
 }
@@ -53,13 +52,16 @@ a:hover {
 @media ( max-width <= 767px) {
 	.is-mobile,
   .rodape,
+<<<<<<< HEAD
   .container,
+=======
+  .container, 
+>>>>>>> upstream/main
   .icon-container a{
 		display: block;
     transform: scale(0.8);
 	}
 }
-
 @media ( min-width : 768px) {
 	.is-desktop {
 		display: block;

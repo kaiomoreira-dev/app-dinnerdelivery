@@ -19,23 +19,23 @@
   align-items: center;
   justify-items: center;
   flex-direction: column;
-  margin-top: 30px;
+  margin-top: 31px;
 }
 
 /* RODAPE */
 
-.rodape{ 
+.rodape{
   display: flex;
   position: absolute;
   bottom: 0;
   width: 100%;
-  height: 13.5rem;    
-  background-color: #a52a2a73;   
+  height: 13.5rem;
+  background-color: #a52a2a73;
   align-items: center;
-  justify-items: center;     
+  justify-items: center;
   flex-direction: column;
   color: #ffffff;
-  
+
 }
 #contato{
   margin-top: 20px;
@@ -65,7 +65,7 @@ p{
 }
 
 .links{
-  text-decoration: none; 
+  text-decoration: none;
 }
 
 .btpesquisa{

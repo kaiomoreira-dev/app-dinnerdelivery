@@ -28,7 +28,7 @@ body {
   gap: 2.5%;
   align-items: center;
   justify-content: center;
-  margin-top: 4rem; /* alterado de 1rem para 3rem */
+  margin-top: 1.5rem; /* alterado de 1rem para 3rem */
 }
 
 /* tamanho item produto */
@@ -164,7 +164,7 @@ body {
   border: none;
   outline: none;
   position: relative;
-  margin-top: 8rem;
+  margin-top: 3rem;
 }
 
 .btpesquisa {
@@ -178,6 +178,6 @@ body {
   border-top-right-radius: 10px;
   border-bottom-right-radius: 10px;
   padding: 5px;
-  margin-top: 8rem;
+  margin-top: 3rem;
   margin-left: 0.1rem;
 }
